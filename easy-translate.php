@@ -9,10 +9,11 @@
  * License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
  */
 
-/**/
+/*
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
+*/
 
 
 defined('ABSPATH') || die('Access Denied');
