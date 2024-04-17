@@ -1,5 +1,5 @@
 <?php
-/**
+/**git
  * Plugin Name: WPC Simple Translate
  * Plugin URI:
  * Description: This plugin allows you translate page content, sliders, forms, galleries, page builders widgets...

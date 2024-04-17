@@ -3,7 +3,7 @@ Contributors: planetstudio
 Tags: translation, translators, localization, localisation, multilingual, internationalization
 Requires at least: 5.4
 Requires PHP: 5.4
-Tested up to: 6.4.1
+Tested up to: 6.5.2
 Stable tag: 1.1.9
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
